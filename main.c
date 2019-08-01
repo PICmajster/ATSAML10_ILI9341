@@ -9,8 +9,8 @@
 /*-------------------------------------------------------------------------*/
 //    Signal LCD ---> MCU ATSAML10E16
 //     CS     (Chip Select)     --> Ground
-//     RESET                    --> PA30
-//     DC/RS  (Command / Data)  --> PA31
+//     RESET                    --> PA06
+//     DC/RS  (Command / Data)  --> PA07
 //     MOSI   (Serial Data)     --> PA24
 //     SCK    (Serial Clock)    --> PA25
 //     LED                      --> +3.3V
